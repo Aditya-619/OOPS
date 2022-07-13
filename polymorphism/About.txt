@@ -1,0 +1,20 @@
+Polymorphism:
+
+* The word "Polymorphism" means having many forms.
+* We can define Polymorphism as the ability of a message to be displayed in more than one form.
+* It means that a call to a member funvtion will cause a different function to be executed
+  depending on the type of object that invokes the function.
+
+A real life example of Polymorphism:
+
+A women is a mother when she is at home, when she is at office she is an employee, 
+when she is at mall she is a customer. so, the same women act different in different scenario.
+This is called Polymorphism (having many forms).
+
+There are two types of Polymorphism:
+
+1) Compiletime Polymorphism
+   eg. Function overloading (same name different number of parameters)
+
+2) Runtime Polymorphism
+   eg. Virtual Function, Function Overriding
