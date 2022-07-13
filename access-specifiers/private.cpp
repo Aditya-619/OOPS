@@ -34,3 +34,17 @@ int main() {
 }
 
 // by default all the members/attributes inside the class are private.
+
+// Abstraction:
+//----------------
+
+// In the code inside int main(), a usercan use the member function get area(or any other data member/member function) to
+// get the desired result, but he did'nt know how it works like how it gives area. This is called abstraction.
+// Abstraction helps you to hide implementation of the functions or anything.
+
+
+// Encapsultaion:
+//------------------
+
+// Rapping of similar data into a similar group is called encapsulation.
+// Here all the similar data is group into similar group which is class circle.
